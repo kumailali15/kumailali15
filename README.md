@@ -31,7 +31,9 @@ To become a **Job-Ready Full Stack Developer** by building real-world, productio
 ## 📫 Connect With Me
 - 📧 Email: kumailali030970@gmail.com  
 - 🌍 Location: Karachi, Pakistan  
-- 🔗 LinkedIn: (add your link here)
+- 🔗 LinkedIn: (www.linkedin.com/in/
+kumail-ali-46b159374
+)
 
 ---
 
