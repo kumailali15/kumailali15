@@ -9,7 +9,7 @@ Hi, I'm Kumail Ali 👋
 💻 Tech Stack
 - 🌐 HTML, CSS, JavaScript (Strong Basics)
 - ⚛️ React (Learning & Building Projects)
-- 🔥 Firebase (Authentication + Database)
+- 🔥 Firebase (Authentication + Database + RealTime)
 - 🗄️ PHP & MySQL (CRUD Systems)
 - 🧰 Git & GitHub (Version Control)
 
@@ -32,8 +32,7 @@ To become a **Job-Ready Full Stack Developer** by building real-world, productio
 - 📧 Email: kumailali030970@gmail.com  
 - 🌍 Location: Karachi, Pakistan  
 - 🔗 LinkedIn: (www.linkedin.com/in/
-kumail-ali-46b159374
-)
+kumail-ali-46b159374)
 
 ---
 
